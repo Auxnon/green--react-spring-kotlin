@@ -1,2 +1,3 @@
-# purple--data-ecommerce
-Part of the stack series, a spring boot, react, and d3 stack
+# Green - react/spring/kotlin
+
+Part of the stack series, a Spring + Kotlin, React, and D3 stack
